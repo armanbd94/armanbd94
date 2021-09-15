@@ -1,6 +1,6 @@
 [![MasterHead](https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/p180x540/241559953_2636818153286932_5718966722462772999_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=8-v3L6HjQ5MAX8y3EIw&_nc_ht=scontent.fdac99-1.fna&oh=bb5844cd4f31eb905bc3f257d5fadb64&oe=615E43F3)](https://github.com/armanbd94)
 <h1 align="center">Hi 👋, I'm Mohammad Arman</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=armanbd94&label=Profile%20views&color=0e75b6&style=flat" alt="armanbd94" /> </p>
 
