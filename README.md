@@ -19,6 +19,4 @@
 <br>
 <h3 align="left">GitHub Stats</h3>  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=armanbd94&show_icons=true&count_private=true&locale=en" alt="armanbd94" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armanbd94&" alt="armanbd94" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanbd94" alt="armanbd94" /></a> </p>
